@@ -12,3 +12,17 @@ We suggest to use directly compiled executables as in some situations it depends
 
 
 ## Demo
+
+![windows-hollow](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/cbc55b11-94c1-4416-a200-43f76abc9baf)
+
+![kali](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/4a258dcc-0f40-4ec7-9422-1422a97686c9)
+
+![win-update](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/a9421032-566d-49f0-a0a0-9857395a5624)
+
+
+![firewall](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/96c3d3cd-6708-4640-83f0-e44c4a642907)
+
+
+![windef-2](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/ca002758-e1e4-43b3-be87-7a59242f80f5)
+
+![windows-def](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/dc8b587a-10f4-4408-8203-539640b50cde)
