@@ -19,8 +19,9 @@ We suggest to use directly compiled executables as in some situations it depends
 
 # Index
 
-[Demo](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#demo)
-[How to use](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#how-to-use)
+* [Demo](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#demo)
+
+* [How to use](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#how-to-use)
 
 ## Tools Resources and skills used 
 
