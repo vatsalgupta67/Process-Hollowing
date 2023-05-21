@@ -1,5 +1,5 @@
 # Process-Hollowing-RedTeamOps
-##Red Team Operation's Defense Evasion Technique for executing without raising flags on Target System.
+## Red Team Operation's Defense Evasion Technique for executing without raising flags on Target System.
 
 We have both x86 and x64 bit release as you want. **we strongly suggest x64-but release if you're bit confused about compiling manually**
 
@@ -10,7 +10,7 @@ We suggest to use directly compiled executables as in some situations it depends
 
 **For 32-bit - Mingw for Windows**
 
-#**Made with :heartbeat: in :india:!!** 
+# **Made with :heartbeat: in :india:!!** 
 
 ## Tools Resources and skills used 
 
