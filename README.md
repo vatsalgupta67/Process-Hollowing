@@ -32,12 +32,17 @@ We suggest to use directly compiled executables as in some situations it depends
 ## Tools Resources and skills used 
 
 1. ChatGPT for required Windows API 
-2. Process-Hollowing Technique working
-3. Deep-imagination 
-4. Error-handling
-5. Programming Skills
-6. Time
-7. Defeating Faliures
+2. Visual Studio Code - Linux and Windows
+3. Cross-compiler
+4. Process-Hollowing Technique working
+5. Deep-imagination 
+6. Error-handling
+7. Programming Skills
+8. Time
+9. Defeating Faliures
+10. Tons of Research
+11. Dedication
+12. Smart Work
 
 ## Demo
 
