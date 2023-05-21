@@ -10,7 +10,7 @@ We suggest to use directly compiled executables as in some situations it depends
 
 **For 32-bit - Mingw for Windows**
 
-**#Made with :heartbeat: in :india: !!** 
+#**Made with :heartbeat: in :india:!!** 
 
 ## Tools Resources and skills used 
 
