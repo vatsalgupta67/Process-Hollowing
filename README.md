@@ -10,6 +10,17 @@ We suggest to use directly compiled executables as in some situations it depends
 
 **For 32-bit - Mingw for Windows**
 
+**# Made with :heartbeat: in :india: !!** 
+
+## Tools Resources and skills used 
+
+1. ChatGPT for required Windows API 
+2. Process-Hollowing Technique working
+3. Deep-imagination 
+4. Error-handling
+5. Programming Skills
+6. Time
+7. Defeating Faliures
 
 ## Demo
 
