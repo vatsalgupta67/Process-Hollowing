@@ -1,5 +1,5 @@
 # Process-Hollowing-RedTeamOps
-## Red Team Operation's Defense Evasion Technique for executing without raising flags on Target System.
+## Red Team Operation's Defense Evasion Technique for executing payload without raising flags on Target System.
 
 # ***Made With ❤️ in 🇮🇳!!!***
 
