@@ -3,7 +3,7 @@
 
 # ***Made With ❤️ in 🇮🇳!!!***
 
-### Credit of these Images goes to to their respective creators :relaxed:!!
+### Credit of these Images goes to  their respective creators :relaxed:!!
 
 ![hollowing1-1_](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/dd3cbd07-ebf0-447e-82f7-9b71384f9b00) 
 
