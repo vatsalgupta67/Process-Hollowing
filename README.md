@@ -14,9 +14,9 @@
 
 
 
-We have both x86 and x64 bit release as you want. **we strongly suggest x64-but release if you're bit confused about compiling manually.**
+We have both x86 and x64 bit release as you want. **we strongly suggest x64-bit release if you're confused about compiling manually.**
 
-We suggest to use directly compiled executables as in some situations it depends on your compiler functionality .
+We suggest to use directly compiled executables as in some situations it depends on your compiler functionality. Both executables are stable and tested several times.
 
 
 **If you wish to Compile x64 bit relese on Kali with cross-compiler - x86_64-w64-mingw32-gcc.** 
@@ -31,19 +31,21 @@ We suggest to use directly compiled executables as in some situations it depends
 
 ## Tools Resources and skills used 
 
-1. ChatGPT for required Windows API.
+1. ChatGPT for researching about required Windows API and functionality.
+
 2. Visual Studio Code - Linux and Windows.
+
 3. Cross-compiler.
 4. Process-Hollowing Technique working.
 
-6. Deep-imagination .
-7. Error-handling.
-8. Programming Skills.
-9. Time.
-10. Defeating Faliures.
-11. Tons of Research.
-12. Dedication.
-13. Smart Work.
+5. Deep-imagination .
+6. Error-handling.
+7. Programming Skills.
+8. Time.
+9. Defeating Faliures.
+10. Tons of Research.
+11. Dedication.
+12. Smart Work.
 
 ## Demo
 
