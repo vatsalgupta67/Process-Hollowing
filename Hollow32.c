@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
     fclose(file);
 
     STARTUPINFOA si = {
-        sizeof(si),
+        sizeof(si)
     };
 
     PROCESS_INFORMATION pi;
