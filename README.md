@@ -42,7 +42,7 @@ We suggest to use directly compiled executables as in some situations it depends
 6. Error-handling.
 7. Programming Skills.
 8. Time.
-9. Defeating Faliures.
+9. Defeating Failures.
 10. Tons of Research.
 11. Dedication.
 12. Smart Work.
