@@ -65,7 +65,7 @@ We suggest to use directly compiled executables as in some situations it depends
 
 ![windows-def](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/dc8b587a-10f4-4408-8203-539640b50cde)
 
-# How to use
+# ⚠️How to use
 
 ## :warning: Note - Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
 
@@ -88,9 +88,9 @@ level factors. But you can give it a try - In some cases it will work !! :nazar_
 
 ***7. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to assist you !!!***
 
-## **Keep few things in mind when using obfuscated release -**  
+## ⚠️**Keep few things in mind when using obfuscated release -**  
 
-* Never Directly Download Executable via Github on the target system, I found some bytes were missing - Technical Issue  + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
+ * Never Directly Download Executable via Github on the target system, I found some bytes were missing - Technical Issue  + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
 
 * Best way is to Download from Github to your Kali Linux or any Attacker Machine first and then transfer it to Target System via C2 Channels or any you like. ( Invoke-WebRequest too )
 
