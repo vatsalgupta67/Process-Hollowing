@@ -90,7 +90,7 @@ level factors. But you can give it a try - In some cases it will work !! :nazar_
 
 ## **Keep few things in mind when using obfuscated release -**  
 
-* Never Directly Download Executable via Github on the target system, I found some bytes were missing + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
+* Never Directly Download Executable via Github on the target system, I found some bytes were missing - Technical Issue  + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
 
 * Best way is to Download from Github to your Kali Linux or any Attacker Machine first and then transfer it to Target System via C2 Channels or any you like. ( Invoke-WebRequest too )
 
