@@ -3,6 +3,8 @@
 
 ## Kindly read [How To Use](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#how-to-use) !! - ***This is a Defense Evasion Technique so with time we add some suggestions for Red Team Ops to fulfill their primary objectives, so you can work Smoothly !!***
 
+## ⚠️Note - **This Binary made for Red Team Operations and user is only be responsible for the use, There's no liability of the Owner.**
+
 # ***Made With ❤️ in 🇮🇳!!!***
 
 ### Credit of these Images goes to  their respective creators :relaxed:!!
