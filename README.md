@@ -86,7 +86,7 @@ We suggest to use directly compiled executables as in some situations it depends
   ***6. If you're injecting to custom binary - It might fails due to Memory allocation issue , still depends on your Privilege and many 3rd
 level factors. But you can give it a try - In some cases it will work !! :nazar_amulet:***
 
-***7. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to assist you !!!***
+***7. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to aasist you  and have tested on the Latest Updated Windows . !!!***
 
 ## ⚠️**Keep few things in mind when using obfuscated release -**  
 
