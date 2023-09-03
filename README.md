@@ -98,4 +98,8 @@ level factors. But you can give it a try - In some cases it will work !! :nazar_
 
 * In this case you'll not face any problems regarding missing bytes or EDR. 
 
-* Sometimes you have to apply many other ways to Bypass EDR and there's not always be a Signature-Patch issue. But there might be a Feature or some Technical problems like missing bytes of the binary, which restricting us. 
+* Sometimes you have to apply many other ways to Bypass EDR and there's not always be a Signature-Patch issue. But there might be a Feature or some Technical problems like missing bytes of the binary, which restricting us.
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
