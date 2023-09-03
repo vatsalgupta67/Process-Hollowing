@@ -96,13 +96,13 @@ level factors. But you can give it a try - In some cases it will work !! :nazar_
  > [!IMPORTANT]
  > ## ⚠️**Keep few things in mind when using obfuscated release -**  
 
- * Never Directly Download Executable via Github on the target system, I found some bytes were missing - Technical Issue  + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
+ > * Never Directly Download Executable via Github on the target system, I found some bytes were missing - Technical Issue  + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
 
-* Best way is to Download from Github to your Kali Linux or any Attacker Machine first and then transfer it to Target System via C2 Channels or any you like. ( Invoke-WebRequest too )
+> * Best way is to Download from Github to your Kali Linux or any Attacker Machine first and then transfer it to Target System via C2 Channels or any you like. ( Invoke-WebRequest too )
 
-* In this case you'll not face any problems regarding missing bytes or EDR. 
+> * In this case you'll not face any problems regarding missing bytes or EDR. 
 
-* Sometimes you have to apply many other ways to Bypass EDR and there's not always be a Signature-Patch issue. But there might be a Feature or some Technical problems like missing bytes of the binary, which restricting us.
+> * Sometimes you have to apply many other ways to Bypass EDR and there's not always be a Signature-Patch issue. But there might be a Feature or some Technical problems like missing bytes of the binary, which restricting us.
 
 
 
