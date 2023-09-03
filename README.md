@@ -69,7 +69,8 @@ We suggest to use directly compiled executables as in some situations it depends
 
 # ⚠️How to use
 
-## :warning: Note - Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
+> [!NOTE]
+> Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
 
 ### Recommended to Turn-Off "Automatic Sample Submission" If you can or using in the testing environment.
 
@@ -100,6 +101,5 @@ level factors. But you can give it a try - In some cases it will work !! :nazar_
 
 * Sometimes you have to apply many other ways to Bypass EDR and there's not always be a Signature-Patch issue. But there might be a Feature or some Technical problems like missing bytes of the binary, which restricting us.
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+
 
