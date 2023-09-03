@@ -3,7 +3,7 @@
 
 ## Kindly read [How To Use](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#how-to-use) !! - ***This is a Defense Evasion Technique so with time we add some suggestions for Red Team Ops to fulfill their primary objectives, so you can work Smoothly !!***
 
-> [!NOTE]
+> [!WARNING]
 > ## **This Binary made for Red Team Operations and user is only be responsible for the use, There's no liability of the Owner.**
 
 # ***Made With ❤️ in 🇮🇳!!!***
@@ -71,7 +71,7 @@ We suggest to use directly compiled executables as in some situations it depends
 # ⚠️How to use
 
 > [!NOTE]
-> Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
+> ## Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
 
 ### Recommended to Turn-Off "Automatic Sample Submission" If you can or using in the testing environment.
 
