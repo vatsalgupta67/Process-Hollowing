@@ -90,9 +90,7 @@ level factors. But you can give it a try - In some cases it will work !! :nazar_
 
 ***7. As we know EDR's and AV signatures keep updating, so we created an obfuscated release to assist you and have tested on the Latest Updated Windows . !!!***
 
-
-> [!IMPORTANT]
-> ## ⚠️**Keep few things in mind when using obfuscated release -**  
+ ## ⚠️**Keep few things in mind when using obfuscated release -**  
 
  * Never Directly Download Executable via Github on the target system, I found some bytes were missing - Technical Issue  + WindowsSmartScreen even mark genuine executables malicious too while downloading .EXE from Github. ( That's why Non-Malicious like WinPEAs , which is for PrivEsc too faces some windowsSmartScreen blockings ) 
 
