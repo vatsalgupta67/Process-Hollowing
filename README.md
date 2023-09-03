@@ -84,7 +84,7 @@ We suggest to use directly compiled executables as in some situations it depends
   
 ***3. Transfer Both Payload and Binary to Target System.***  
 
-***4. Hollow64.exe < Path to Any application to run or show as example -notepad.exe, calc.exe > < Path to Shellcode file > .*** - You can refer to above demonstration images to understand also .  
+***4. Hollow64.exe < Path to Any application to run or show as example -notepad.exe, calc.exe > < Path to Shellcode file > .*** - You can refer to above demonstration images and binary itself to understand also .  
   
 *5. Execute, But remember .bin files can evade better as per my Personal Experience so, just make your Payload Obfuscated for better Defense Evasion.*
   
