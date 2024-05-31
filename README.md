@@ -1,7 +1,7 @@
 # Process-Hollowing
 ### Red Team Operation's Defense Evasion Technique for executing payload without raising flags on Target System.
 
-## Kindly read [How To Use](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#how-to-use) !! - ***This is a Defense Evasion Technique so with time we add some suggestions for Red Team Ops to fulfill their primary objectives, so you can work Smoothly !!***
+## Kindly read [How To Use](https://github.com/vatsalgupta67/Process-Hollowing/blob/main/README.md#how-to-use) !! - ***This is a Defense Evasion Technique so with time we add some suggestions for Red Team Ops to fulfill their primary objectives, so you can work Smoothly !!***
 
 > [!WARNING]
 > ## **This Binary made for Red Team Operations and user is only be responsible for the use, There's no liability of the Owner.**
@@ -30,9 +30,9 @@ We suggest to use directly compiled executables as in some situations it depends
 
 # Index
 
-* [Demo](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#demo)
+* [Demo](https://github.com/vatsalgupta67/Process-Hollowing/blob/main/README.md#demo)
 
-* [How to use](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/blob/main/README.md#how-to-use)
+* [How to use](https://github.com/vatsalgupta67/Process-Hollowing/blob/main/README.md#how-to-use)
 
 ## Tools Resources and skills used 
 
