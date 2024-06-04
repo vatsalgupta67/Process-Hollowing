@@ -34,24 +34,6 @@ We suggest to use directly compiled executables as in some situations it depends
 
 * [How to use](https://github.com/vatsalgupta67/Process-Hollowing/blob/main/README.md#how-to-use)
 
-## Tools Resources and skills used 
-
-1. ChatGPT for researching about required Windows API and functionality.
-
-2. Visual Studio Code - Linux and Windows.
-
-3. Cross-compiler.
-4. Process-Hollowing Technique working.
-
-5. Deep-imagination .
-6. Error-handling.
-7. Programming Skills.
-8. Time.
-9. Defeating Failures.
-10. Tons of Research.
-11. Dedication.
-12. Smart Work.
-
 ## Demo
 
 ![windows-hollow](https://github.com/vatsalgupta67/Process-Hollowing-RedTeamOps/assets/71017420/cbc55b11-94c1-4416-a200-43f76abc9baf)
